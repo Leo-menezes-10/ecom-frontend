@@ -6,7 +6,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import { Cart } from './pages/Cart'
 import Login from './pages/Login'
-import NavBar from './components/navBar'
+import NavBar from './components/NavBar'
 import PrivateRoute from './routes/PrivateRoute'
 import ReviewsAndFooter from './components/Footer'
 
